@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Abstractclass\\absclas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A17E9438-3D16-48A7-8EB2-2644235E0F5F}|absclas\\absclas.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\abstractclass\\absclas\\absclas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17E9438-3D16-48A7-8EB2-2644235E0F5F}|absclas\\absclas.csproj|solutionrelative:absclas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17E9438-3D16-48A7-8EB2-2644235E0F5F}|absclas\\absclas.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\abstractclass\\absclas\\absclas\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17E9438-3D16-48A7-8EB2-2644235E0F5F}|absclas\\absclas.csproj|solutionrelative:absclas\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17E9438-3D16-48A7-8EB2-2644235E0F5F}|absclas\\absclas.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\abstractclass\\absclas\\absclas\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17E9438-3D16-48A7-8EB2-2644235E0F5F}|absclas\\absclas.csproj|solutionrelative:absclas\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17E9438-3D16-48A7-8EB2-2644235E0F5F}|absclas\\absclas.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\abstractclass\\absclas\\absclas\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17E9438-3D16-48A7-8EB2-2644235E0F5F}|absclas\\absclas.csproj|solutionrelative:absclas\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Abstractclass\\absclas\\absclas\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "absclas\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Abstractclass\\absclas\\absclas\\Model\\Product.cs",
+              "RelativeToolTip": "absclas\\Model\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:23:53.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Abstractclass\\absclas\\absclas\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "absclas\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Abstractclass\\absclas\\absclas\\Model\\Book.cs",
+              "RelativeToolTip": "absclas\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:27:17.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Abstractclass\\absclas\\absclas\\Program.cs",
+              "RelativeDocumentMoniker": "absclas\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Abstractclass\\absclas\\absclas\\Program.cs",
+              "RelativeToolTip": "absclas\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowEUAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:40:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Abstractclass\\absclas\\absclas\\Account.cs",
+              "RelativeDocumentMoniker": "absclas\\Account.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Abstractclass\\absclas\\absclas\\Account.cs",
+              "RelativeToolTip": "absclas\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:40:56.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

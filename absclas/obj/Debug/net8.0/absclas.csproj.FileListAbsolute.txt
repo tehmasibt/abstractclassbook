@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\bin\Debug\net8.0\absclas.exe
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\bin\Debug\net8.0\absclas.deps.json
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\bin\Debug\net8.0\absclas.runtimeconfig.json
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\bin\Debug\net8.0\absclas.dll
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\bin\Debug\net8.0\absclas.pdb
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\obj\Debug\net8.0\absclas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\obj\Debug\net8.0\absclas.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\obj\Debug\net8.0\absclas.AssemblyInfo.cs
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\obj\Debug\net8.0\absclas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\obj\Debug\net8.0\absclas.dll
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\obj\Debug\net8.0\refint\absclas.dll
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\obj\Debug\net8.0\absclas.pdb
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\obj\Debug\net8.0\absclas.genruntimeconfig.cache
+C:\Users\User\OneDrive\İş masası\Abstractclass\absclas\absclas\obj\Debug\net8.0\ref\absclas.dll
